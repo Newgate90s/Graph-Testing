@@ -1,0 +1,23 @@
+﻿  CSC382Graph_Student.cpp
+c:\users\newga\desktop\csc382graph_student\csc382graph_adjacencylist.h(188): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\newga\desktop\csc382graph_student\csc382graph_adjacencylist.h(187): note: while compiling class template member function 'int CSC382Graph_AdjacencyList<int>::GraphSize(void)'
+  c:\users\newga\desktop\csc382graph_student\csc382graph_student.cpp(247): note: see reference to function template instantiation 'int CSC382Graph_AdjacencyList<int>::GraphSize(void)' being compiled
+  c:\users\newga\desktop\csc382graph_student\csc382graph_student.cpp(245): note: see reference to class template instantiation 'CSC382Graph_AdjacencyList<int>' being compiled
+c:\users\newga\desktop\csc382graph_student\csc382graph_nodebased.h(188): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\newga\desktop\csc382graph_student\csc382graph_nodebased.h(187): note: while compiling class template member function 'int CSC382Graph_NodeBased<int>::Size(void)'
+  c:\users\newga\desktop\csc382graph_student\csc382graph_student.cpp(22): note: see reference to function template instantiation 'int CSC382Graph_NodeBased<int>::Size(void)' being compiled
+  c:\users\newga\desktop\csc382graph_student\csc382graph_student.cpp(20): note: see reference to class template instantiation 'CSC382Graph_NodeBased<int>' being compiled
+c:\users\newga\desktop\csc382graph_student\csc382graph_adjacencylist.h(183): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\newga\desktop\csc382graph_student\csc382graph_adjacencylist.h(182): note: while compiling class template member function 'int CSC382Graph_AdjacencyList<int>::NumberOfEdges(std::list<T,std::allocator<_Ty>> *)'
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+  c:\users\newga\desktop\csc382graph_student\csc382graph_adjacencylist.h(176): note: see reference to function template instantiation 'int CSC382Graph_AdjacencyList<int>::NumberOfEdges(std::list<T,std::allocator<_Ty>> *)' being compiled
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+  CSC382Graph_Student.vcxproj -> C:\Users\NewGa\Desktop\CSC382Graph_Student\x64\Debug\CSC382Graph_Student.exe
